@@ -1,6 +1,6 @@
 # CURRENCY-CONVERTER - react
 ## About:
-Link to the page => [currency-converter-react](https://dor-ka.github.io/frontend-youcode-react-currency-converter/)
+Link to the page => [frontend-youcode-react-currency-converter](https://dor-ka.github.io/frontend-youcode-react-currency-converter/)
 
 This project is a simple website created for practicing basic **HTML**, **CSS**, **JavaScript**, and **react** skills.
 ## Technologies used:
