@@ -1,27 +1,47 @@
-# CURRENCY-CONVERTER - react
-## About:
-Link to the page => [frontend-youcode-react-currency-converter](https://dor-ka.github.io/frontend-youcode-react-currency-converter/)
+# 💱 Currency Converter – React
 
-This project is a simple website created for practicing basic **HTML**, **CSS**, **JavaScript**, and **react** skills.
-## Technologies used:
-- ES6+ features
-- flex
-- immutability array in JavaScript
-- react:
-    - useState
-    - useEffect
-    - custom hooks
-- clock: setInterval
+[🔗 Live Demo](https://dor-ka.github.io/frontend-youcode-react-currency-converter/)
+
+A simple currency converter built with React, styled-components, and the latest ES6+ features. This project was created during the YouCode course to practice core frontend and React skills.
+
+---
+
+## 📸 Preview
+
+![demo](https://github.com/Dor-Ka/frontend-youcode-react-currency-converter/raw/main/public/readme-react-api.png)
+
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS (Flexbox)
+- JavaScript (ES6+)
+- React
+  - `useState`
+  - `useEffect`
+  - custom hooks
 - styled-components
-- API:
-    - fetch
-    - async/await
-    - error handling
+- API
+  - `fetch`
+  - `async/await`
+  - error handling
+- Clock (`setInterval`)
+- Array immutability
 
-## demo:
-![demo1](https://github.com/DorotaKar/frontend-youcode-react-currency-converter/blob/main/public/readme-react-api.png?)
+---
 
+## 🚀 Features
 
+- Currency exchange rates fetched from an external API
+- Custom reusable hook for fetching data
+- Loading and error handling UI
+- Clock in header (real-time)
+- Clean and responsive UI
+- Styled with styled-components
+
+---
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
